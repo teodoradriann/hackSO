@@ -1,0 +1,8 @@
+Server created
+Server is listening on socket: /tmp/sohack.socket
+Client 4 acepted.
+Received 99 bytes from client 4.
+Finished receiving data from client 4.
+Received command: /home/adrian.linux/operating-systems/content/assignments/lambda-function-loader/tests/libbasic.so  
+run
+run
